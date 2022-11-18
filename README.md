@@ -1,6 +1,6 @@
 # Big Data Amazon Database
 
-##Skills/Languages Used: PySpark, Google Colab, Python, SQL, PostgreSQL
+## Skills/Languages Used: PySpark, Google Colab, Python, SQL, PostgreSQL
 
 ## Background
 
